@@ -154,7 +154,8 @@ This repo consists of Solid principle examples in c#
     {
         public void SendEmail(string recipient, string subject, string body)
         {
-            Console.WriteLine($"Mail is sending to {recipient}, with subject {subject}, with body {body}");
+            Console.WriteLine($"Mail is sending to {recipient}, with subject {subject},
+                with body {body}");
         }
     }
 
