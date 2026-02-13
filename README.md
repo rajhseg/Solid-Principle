@@ -24,7 +24,8 @@ This repo consists of Solid principle examples in c#
     }
 
 ```
-
+<br />
+<br />
 2.  **Open Closed Principle:** Open for Extension and Closed for Modification
 
 ```nginx
@@ -63,6 +64,8 @@ This repo consists of Solid principle examples in c#
 
 ```
 
+<br />
+<br />
 
 3.  **Liskov Substitution Principle:** objects of Base class can be replaceable by objects of subclass with out breaking behavior.
 
@@ -109,6 +112,8 @@ This repo consists of Solid principle examples in c#
 
 ```
 
+<br />
+<br />
 
 4.  **Interface Segregation Principle:** Clients should not be force to have methods that doesn't need.
 
@@ -139,6 +144,8 @@ This repo consists of Solid principle examples in c#
 
 ```
 
+<br />
+<br />
 
 5.  **Dependency inversion Principle:** Reduces tight coupling between the classes.
 
