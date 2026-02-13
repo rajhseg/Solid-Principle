@@ -1,6 +1,8 @@
 # Solid-Principle
 This repo consists of Solid principle examples in c#
 
+<br />
+
 1.  **Single Responsibility Principle :** The class should have only one responsibility or talks about single entiity.
 
 ```nginx
