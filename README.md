@@ -26,6 +26,7 @@ This repo consists of Solid principle examples in c#
 ```
 <br />
 <br />
+
 2.  **Open Closed Principle:** Open for Extension and Closed for Modification
 
 ```nginx
